@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IOT-SAS-Walletd", "IOT-SAS-Walletd\IOT-SAS-Walletd.csproj", "{279972D7-9FAD-4B46-A9F1-FE7997ECF5E2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{B490C2EE-C981-4641-85C9-7E0ABC2F21BC}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+		run.sh = run.sh
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{279972D7-9FAD-4B46-A9F1-FE7997ECF5E2}.Debug|x86.ActiveCfg = Debug|x86
+		{279972D7-9FAD-4B46-A9F1-FE7997ECF5E2}.Debug|x86.Build.0 = Debug|x86
+		{279972D7-9FAD-4B46-A9F1-FE7997ECF5E2}.Release|x86.ActiveCfg = Release|x86
+		{279972D7-9FAD-4B46-A9F1-FE7997ECF5E2}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal
